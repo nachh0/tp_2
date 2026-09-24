@@ -1,2 +1,3 @@
 Descripcion de configuraciones
 Funcionalidades: La funcionalidad de aprobar esta materia es poder promocionarla y aprender a utilizar GITHUB
+Antes de comenzar a realizar los pasos del proyecto, tuvimos que vincular el repositorio para poder comenzar a trabajar en conjunto
